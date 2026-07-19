@@ -10,7 +10,7 @@ Run **local LLM models on Google Colab** and access them remotely via API — id
 
 - 🔥 Run advanced LLMs (like Qwen, LLaMA3, Mistral, DeepSeek) in Colab using [Ollama](https://ollama.com/)
 - 🌐 Expose the model via secure public URL using `cloudflared`
-- 🧑‍💻 Integrate with [ROO Code](https://roo.dev) in VS Code for seamless coding assistance
+- 🧑‍💻 Integrate with [ROO Code](https://roo.dev) or its community successor [Zoo Code](https://zoocode.dev/) in VS Code for seamless coding assistance
 - ✅ Automatically detects and waits for Ollama to be ready before tunneling
 - 💡 Simple, professional, and reusable setup
 
